@@ -1,0 +1,14 @@
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.exe
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.deps.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.runtimeconfig.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\bin\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.csproj.AssemblyReference.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.AssemblyInfo.cs
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Dizi-tanimlama-dizi-loops\Dizi-tanimlama-dizi-loops\obj\Debug\netcoreapp3.1\Dizi-tanimlama-dizi-loops.genruntimeconfig.cache
