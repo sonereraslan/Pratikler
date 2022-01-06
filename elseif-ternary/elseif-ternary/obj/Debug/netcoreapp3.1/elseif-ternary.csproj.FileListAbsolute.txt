@@ -1,0 +1,14 @@
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.exe
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.deps.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.runtimeconfig.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\bin\Debug\netcoreapp3.1\elseif-ternary.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.csproj.AssemblyReference.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.AssemblyInfo.cs
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\elseif-ternary\elseif-ternary\obj\Debug\netcoreapp3.1\elseif-ternary.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "elseif-ternary/1.0.0": {
+        "runtime": {
+          "elseif-ternary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elseif-ternary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
