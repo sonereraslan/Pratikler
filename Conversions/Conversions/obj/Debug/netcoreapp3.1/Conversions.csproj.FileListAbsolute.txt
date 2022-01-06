@@ -1,0 +1,14 @@
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.exe
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.deps.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\bin\Debug\netcoreapp3.1\Conversions.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.csproj.AssemblyReference.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.AssemblyInfo.cs
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\Conversions\Conversions\obj\Debug\netcoreapp3.1\Conversions.genruntimeconfig.cache
