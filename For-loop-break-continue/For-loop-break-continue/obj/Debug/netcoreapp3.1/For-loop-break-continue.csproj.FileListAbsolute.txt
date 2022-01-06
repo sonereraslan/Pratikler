@@ -1,0 +1,14 @@
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.exe
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.deps.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.runtimeconfig.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\bin\Debug\netcoreapp3.1\For-loop-break-continue.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.csproj.AssemblyReference.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.AssemblyInfo.cs
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\For-loop-break-continue\For-loop-break-continue\obj\Debug\netcoreapp3.1\For-loop-break-continue.genruntimeconfig.cache
