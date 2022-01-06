@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While-foreach", "While-foreach\While-foreach.csproj", "{31CD7386-A194-4F7F-81EC-01DCD47EEA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CD7386-A194-4F7F-81EC-01DCD47EEA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CD7386-A194-4F7F-81EC-01DCD47EEA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CD7386-A194-4F7F-81EC-01DCD47EEA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CD7386-A194-4F7F-81EC-01DCD47EEA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16815CFD-837E-4236-BBA9-6915F2250415}
+	EndGlobalSection
+EndGlobal

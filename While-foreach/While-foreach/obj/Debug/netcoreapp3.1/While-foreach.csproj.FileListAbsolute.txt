@@ -1,0 +1,14 @@
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.exe
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.deps.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.runtimeconfig.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.runtimeconfig.dev.json
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\bin\Debug\netcoreapp3.1\While-foreach.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.csproj.AssemblyReference.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.AssemblyInfoInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.AssemblyInfo.cs
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.csproj.CoreCompileInputs.cache
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.dll
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.pdb
+C:\Users\Rosa\Documents\GitHub\Patika\Pratikler\Pratikler\While-foreach\While-foreach\obj\Debug\netcoreapp3.1\While-foreach.genruntimeconfig.cache
